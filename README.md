@@ -2,7 +2,8 @@
 
 Tools Used: Excel, Oracle SQL, Power BI
 
-Dataset: ![Netflix_Dataset_SQL]
+Dataset: Netflix_Dataset_SQL.csv
+SQL_File: Netflix_Shows_Movies_SQL_Filesql
 
 Business Problem: Netflix wants to gather useful insights on their shows and movies for their subscribers through their datasets. The issue is, they are working with too much data (approximately 82k rows of data combined) and are unsure how to effectively analyze and extract meaningful insights from it. They need a robust and scalable data analytics solution to handle the vast amount of data and uncover valuable patterns and trends.
 
