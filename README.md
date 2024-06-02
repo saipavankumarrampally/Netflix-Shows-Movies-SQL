@@ -9,36 +9,36 @@ Business Problem: Netflix wants to gather useful insights on their shows and mov
 How I Plan On Solving the Problem: In helping Netflix gather valuable insights from their extensive movies and shows dataset, I will be utilizing SQL and a data visualization tool like Tableau to extract relevant information, and conduct insightful analyses. By leveraging SQL's functions, I can uncover key metrics such as viewer ratings, popularity trends, genre preferences, and viewership patterns. Once the data has been extracted and prepared, I will leverage Tableau to present the findings. This will allow for interactive exploration of the data, enabling stakeholders at Netflix to gain actionable insights through visually appealing charts, graphs, and interactive visualizations. I plan on creating a dynamic dashboard in Tableau that enables users to delve into specific movie genres, viewer demographics, or geographical regions.
 
 
-# Questions I Wanted To Answer From the Dataset:
+## Questions I Wanted To Answer From the Dataset:
 
-## 1. What were the top 10 movies according to IMDB score?
+### 1. What were the top 10 movies according to IMDB score?
 ![ray-so-export](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/194c5174-6dad-437a-9da4-7d47e858fd16)
 
-## 2. What were the top 10 shows according to IMDB score?
+### 2. What were the top 10 shows according to IMDB score?
 ![ray-so-export (1)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/abfd6545-96d1-47c9-8e83-890e7a7ff6d4)
 
-## 3. What were the bottom 10 movies according to IMDB score?
+### 3. What were the bottom 10 movies according to IMDB score?
 ![ray-so-export (2)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/6ceec0c0-d1e7-40d2-80cf-7533400bbfd4)
 
-## 4. What were the bottom 10 shows according to IMDB score?
+### 4. What were the bottom 10 shows according to IMDB score?
 ![ray-so-export (3)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/ea86c208-1806-481a-a65a-ceaf93183657)
 
-## 5. What were the average IMDB and TMDB scores for shows and movies?
+### 5. What were the average IMDB and TMDB scores for shows and movies?
 ![ray-so-export (4)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/a9eb932c-51db-4d49-b2f6-c780359f6499)
 
-## 6. What were the 5 most common age certifications for movies?
+### 6. What were the 5 most common age certifications for movies?
 ![ray-so-export (5)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/c3417834-7ab9-4a93-8a78-3ad5bc3a1569)
 
-## 7. What were the top 3 most common genres in movies and shows?
+### 7. What were the top 3 most common genres in movies and shows?
 ![ray-so-export (6)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/f094800d-36da-40c4-8030-eef0d139be90)
 
-## 8. Production countries with the most movies and shows?
+### 8. Production countries with the most movies and shows?
 ![ray-so-export (7)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/3c0ef8dd-eaaa-4952-acb4-f717ca28306e)
 
-## 9. What are top 10 shows with most seasons?
+### 9. What are top 10 shows with most seasons?
 ![ray-so-export (8)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/80f6d535-8bca-4a7d-817f-84d32f674fdf)
 
-## 10. Calculating the average runtime of movies and TV shows?
+### 10. Calculating the average runtime of movies and TV shows?
 ![ray-so-export (9)](https://github.com/saipavankumarrampally/Netflix-Shows-Movies-SQL/assets/48781737/91fa5c66-c476-47c2-8229-5ca3ee6ec6c4)
 
 By analyzing the frequency of genres, we can gain a better understanding of the content that dominates the platform and the preferences of its audience. Starting with movies, the first query reveals the top 10 most common genres. Comedy emerges as the most popular genre with a total of 384 movies, reflecting its widespread appeal. Following closely behind are documentation with 230 movies and drama with 224 movies, indicating the significance of these genres in Netflix's movie collection. Combinations of genres also feature prominently, with comedy + documentation and comedy + drama occupying the fourth and fifth positions respectively. The presence of drama + romance, drama + comedy, and comedy + romance further emphasizes the audience's likeness for movies that blend multiple genres. These findings highlight the diverse range of movie genres available on Netflix and the platform's commitment to catering to a wide array of preferences.
